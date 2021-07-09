@@ -1,0 +1,19 @@
+{
+  "name": "primestone-user-mngr",
+  "version": "1.0.0",
+  "description": "Manager responsible for manage all requests related to user functionalities as register and login",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohanCamiloL/primestone-user-mngr.git"
+  },
+  "author": "Johan Camilo Lopez Giron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohanCamiloL/primestone-user-mngr/issues"
+  },
+  "homepage": "https://github.com/JohanCamiloL/primestone-user-mngr#readme"
+}
